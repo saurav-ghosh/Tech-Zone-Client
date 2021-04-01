@@ -1,0 +1,24 @@
+.single-product{
+    width: 300px;
+    padding: 30px 15px;
+    box-shadow: 5px 5px 10px gray;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+.image{
+    text-align: center;
+}
+.single-product img{
+    height: 180px;
+}
+.product-price h4{
+    display: inline;
+}
+.product-price button{
+    margin-left: 100px;
+    background-color: #3b5998;
+    color: white;
+    padding: 5px 20px;
+    border-radius: 5px;
+    border: none;
+}

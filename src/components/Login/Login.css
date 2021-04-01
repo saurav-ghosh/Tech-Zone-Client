@@ -1,0 +1,24 @@
+.login-container{
+    width: 500px;
+    height: 300px;
+    background-color: #3b5998;
+    margin: auto;
+    text-align: center;
+    margin-top: 100px;
+    border-radius: 5px;
+    color: white;
+    padding: 20px;
+}
+.login-container button{
+    margin-top: 50px;
+}
+.google-login img{
+    width: 30px;
+    margin-right: 20px;
+}
+.google-login{
+    background-color: rgb(199, 199, 199);
+    border: none;
+    border-radius: 20px;
+    padding: 5px;
+}

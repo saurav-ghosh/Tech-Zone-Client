@@ -1,0 +1,38 @@
+@media only screen and (min-width: 768px) {
+    .single-manage-product h5{
+        display: inline;
+    }
+    .single-manage-product{
+        padding: 5px;
+    }
+    .singleM-name{
+        width: 510px;
+        float: left;
+    }
+    .singleM-Price{
+        float: left;
+        width: 480px;
+    }
+}
+@media only screen and (max-width: 768px) {
+    .single-manage-product h5{
+        display: inline;
+    }
+    .single-manage-product{
+        padding: 5px;
+        margin-bottom: 20px;
+    }
+    .singleM-name{
+        width: 230px;
+        float: left;
+    }
+    .singleM-Price{
+        float: left;
+        width: 90px;
+        margin-left: 10px;
+    }
+}
+.single-manage-product img{
+    width: 30px;
+    cursor: pointer;
+}
